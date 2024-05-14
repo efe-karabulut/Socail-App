@@ -14,4 +14,10 @@ Social Application is a dynamic web platform built using the MERN stack (MongoDB
 ---
 
 ## For run this app
-- download
+1. **Prepare the Client**: In the `client-react` directory, run `npm install` to set up the necessary dependencies.
+
+2. **Prepare the Backend**: Similarly, in the `backend-nodejs` directory, perform `npm install` to install the backend dependencies.
+
+3. **Run the Application**: Start the backend server by executing `npm start` in the `backend-nodejs` folder. Then, in the `client-react` folder, run `npm start` to launch the client side.
+
+4. **Access the Application**: Visit `localhost:3000` in your web browser to view and interact with the application.
