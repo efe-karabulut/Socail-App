@@ -12,3 +12,6 @@ ___
 Social Application is a dynamic web platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js), incorporating WebSockets and various auxiliary packages for enhanced real-time interactions. This comprehensive application supports user authentication, allowing individuals to register and log in with ease.
 
 ---
+
+## For run this app
+- download
